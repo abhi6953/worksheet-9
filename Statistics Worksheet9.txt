@@ -1,0 +1,43 @@
+worksheet 9 
+statistics
+
+1. option C
+2. option B
+3. option B
+4. option B
+5. option C
+6. option A
+7. option C
+8. option B
+9. option C
+10. option C
+11. option A
+12. option B
+
+13.
+The key difference between the t- and z-distributions is the standard normal or z-distribution assumes that you know the population standard deviation. 
+The t-distribution is based on the sample standard deviation.
+
+14. 
+The t-distribution is similar to a normal distribution. It has a precise mathematical definition. Instead of diving into complex math, 
+let’s look at the useful properties of the t-distribution and why it is important in analyses.
+Like the normal distribution, the t-distribution has a smooth shape.
+Like the normal distribution, the t-distribution is symmetric. If you think about folding it in half at the mean, each side will be the same.
+Like a standard normal distribution (or z-distribution), the t-distribution has a mean of zero.
+The normal distribution assumes that the population standard deviation is known. The t-distribution does not make this assumption.
+The t-distribution is defined by the degrees of freedom. These are related to the sample size.
+The t-distribution is most useful for small sample sizes, when the population standard deviation is not known, or both.
+As the sample size increases, the t-distribution becomes more similar to a normal distribution.
+
+15.
+According to the central limit theorem, the sampling distribution of a statistic (like a sample mean) will follow a normal distribution, 
+as long as the sample size is sufficiently large. Therefore, when we know the standard deviation of the population, we can compute a z-score, 
+and use the normal distribution to evaluate probabilities with the sample mean.
+
+But sample sizes are sometimes small, and often we do not know the standard deviation of the population. 
+When either of these problems occur, statisticians rely on the distribution of the t statistic (also known as the t score), whose values are given by:
+
+t = [ x - μ ] / [ s / sqrt( n ) ]
+
+where x is the sample mean, μ is the population mean, s is the standard deviation of the sample, and n is the sample size. 
+The distribution of the t statistic is called the t distribution or the Student t distribution.
